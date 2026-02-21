@@ -154,7 +154,8 @@ TRUE : Values that are non zero. Any string with atleast one character. List, tu
 
 False: The number zero. Empty string. Empty list, tuple and dictionary.        
 
-Logical: And only returns True if both expression on either side of and are True. Or returns True if either expressions of or are True or both are True as well.    
+Logical: And only returns True if both expression on either side of and are True. 
+        Or returns True if either expressions of or are True or both are True as well.    
          not command switched the parameter from True to False and vice versa.
  
 
@@ -509,4 +510,3 @@ Deleting them can unknowingly break something in the system.
 # rm -rf
 # Define: Forces to delete files or folders (directory), ignoring all warning, deletes right away.
 #rm -rf folder_name 
-
