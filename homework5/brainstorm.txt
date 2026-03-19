@@ -54,10 +54,10 @@
     Github: Build a feature-noise-model branch to experiment with different types of noise without breaking the main simulation.
 
 
-4. One project would be writing a machine learning program that uses the mentioned the above with actual data and drop the error rate by about 5 to 6 decimal places, 
+4. One project ("dream") would be writing a machine learning program that uses the mentioned the above  with actual data and drop the error rate by about 5 to 6 decimal places, 
    which would also include other skills sets, not just computation and physics.
 
-   Second project would be a small scale of this, using data, like the above but with actual data.
+   Second project would be a small scale of this (without machine learning), using data or generated data.
 
    
    
